@@ -135,17 +135,3 @@ python -m mujoco.viewer
 | `assets/zsl-1/` | ZSL-1 机器人 URDF / MuJoCo 模型 |
 | `examples/` | 示例运行脚本 |
 | `model_catalog.json` | 推荐开源机器人模型参考列表 |
-
-### X2 模型预览
-
-**x2_ultra (plus)**
-
-![x2_ultra_plus](visual/x2_ultra_plus.png)
-
-**x2_hand (plus)**
-
-![x2_hand_plus](visual/x2_hand_plus.png)
-
-**x2_fist (plus)**
-
-![x2_fist_plus](visual/x2_fist_plus.png)
