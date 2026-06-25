@@ -1,0 +1,21 @@
+{
+  "blocks_sorted": 3,
+  "total_blocks": 3,
+  "operations": [
+    {
+      "block": "Red Block",
+      "success": true,
+      "duration_seconds": 0.69
+    },
+    {
+      "block": "Green Block",
+      "success": true,
+      "duration_seconds": 0.46
+    },
+    {
+      "block": "Blue Block",
+      "success": true,
+      "duration_seconds": 0.54
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "session_start": "2026-06-24 21:34:39",
+  "commands_issued": [
+    {
+      "command": "idle",
+      "time_s": 1.47
+    },
+    {
+      "command": "bwd",
+      "time_s": 8.03
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 18.91
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 20.28
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 21.01
+    },
+    {
+      "command": "bwd",
+      "time_s": 21.77
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 22.49
+    },
+    {
+      "command": "bwd",
+      "time_s": 23.06
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 23.74
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 24.26
+    },
+    {
+      "command": "bwd",
+      "time_s": 24.96
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 25.27
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 25.82
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 26.74
+    },
+    {
+      "command": "idle",
+      "time_s": 37.26
+    },
+    {
+      "command": "bwd",
+      "time_s": 39.25
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 45.32
+    },
+    {
+      "command": "bwd",
+      "time_s": 46.73
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 50.35
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 52.14
+    },
+    {
+      "command": "bwd",
+      "time_s": 53.54
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 57.51
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 63.87
+    },
+    {
+      "command": "bwd",
+      "time_s": 64.61
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 65.51
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 67.37
+    },
+    {
+      "command": "bwd",
+      "time_s": 71.9
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 72.67
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 73.47
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 74.8
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 75.33
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 76.43
+    },
+    {
+      "command": "bwd",
+      "time_s": 78.17
+    },
+    {
+      "command": "bwd+right",
+      "time_s": 79.31
+    },
+    {
+      "command": "idle",
+      "time_s": 81.92
+    },
+    {
+      "command": "bwd",
+      "time_s": 82.66
+    },
+    {
+      "command": "idle",
+      "time_s": 84.03
+    },
+    {
+      "command": "bwd",
+      "time_s": 84.65
+    },
+    {
+      "command": "bwd+left",
+      "time_s": 98.25
+    },
+    {
+      "command": "bwd",
+      "time_s": 99.93
+    }
+  ],
+  "distance_travelled_m": 897.926,
+  "waypoints_reached": 2,
+  "waypoint_times_s": [
+    27.69,
+    124.9
+  ],
+  "goal_reached": false,
+  "time_to_goal_s": null,
+  "total_sim_steps": 378306,
+  "session_duration_s": 261.57
+}
